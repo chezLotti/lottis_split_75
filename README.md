@@ -6,7 +6,7 @@ uses a single microcontroller with at least 26 programmable pins.
 i connected both halfs through a 14pin bus cable of which 13 pins are used. 
 
 how to use:
-- put the folder into the "qmk/keyboards/handwired/" folder
+- put the folder (lottis_split_75) into the "qmk/keyboards/handwired/" folder
 - start qmk_msys
 - type "qmk compile -kb handwired/lottis_split_75 -km default"
 - wait...
