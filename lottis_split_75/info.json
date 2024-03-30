@@ -2,7 +2,7 @@
     {
     "manufacturer": "Charlotte Wahl",
     "keyboard_name": "handwired/lottis_split_75",
-    "maintainer": "Lxoxtxtxi",
+    "maintainer": "chezLotti",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "matrix_pins": {
