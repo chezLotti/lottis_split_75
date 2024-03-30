@@ -1,4 +1,4 @@
-// Copyright 2024 Charlotte Wahl (@Lxoxtxtxi)
+// Copyright 2024 Charlotte Wahl (@chezLotti)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
