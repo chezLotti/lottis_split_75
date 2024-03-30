@@ -10,4 +10,4 @@ BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 
-# SPLIT_KEYBOARD = yes
+# SPLIT_KEYBOARD = yes     # enable this, if you want to use 2 controllers connected via i2c
