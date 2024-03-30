@@ -1,6 +1,6 @@
 # handwired/lottis_split_75
 
-![handwired/lottis_split_75](https://imgur.com/a/6j5C4Dq)
+https://imgur.com/a/6j5C4Dq
 
 * Works (probably) only in conjunction with the NeoQwertz Layout (https://www.neo-layout.org/Layouts/neoqwertz/).
 * This keyboard uses a single microcontroller. 
