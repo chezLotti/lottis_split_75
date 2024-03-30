@@ -2,7 +2,7 @@
 
 ![handwired/lottis_split_75](https://imgur.com/a/6j5C4Dq)
 
-* Works (probaly) only in conjunction with the NeoQwertz Layout (https://www.neo-layout.org/Layouts/neoqwertz/).
+* Works (probably) only in conjunction with the NeoQwertz Layout (https://www.neo-layout.org/Layouts/neoqwertz/).
 * This keyboard uses a single microcontroller. 
 * Both halfs are connected through a 14pin bus cable (13 pins are used). 
 
